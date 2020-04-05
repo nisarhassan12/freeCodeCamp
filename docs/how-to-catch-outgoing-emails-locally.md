@@ -13,7 +13,7 @@ Some email workflows, like updating a user's email, requires the back-end api-se
 
 ## Installing MailHog
 
-MailHog can be installed on macOS, Windows and Linux.
+MailHog can be installed on macOS, Windows and Linux
 
 - [Installing MailHog on macOS](#installing-mailhog-on-macos)
 - [Installing MailHog on Windows](#installing-mailhog-on-windows)
