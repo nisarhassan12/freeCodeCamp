@@ -14,7 +14,7 @@ Let us know, if you have feedback or queries, and we will be happy to clarify.
 
 ## How do we build, test and deploy the codebase?
 
-This repository is continuously built, tested and deployed to **separate sets of infrastructure (Servers, Databases, CDNs, etc.)**.
+This repository is continuously built, tested and deployed to **separate sets of infrastructure (Servers, Databases, CDNs, etc.)**
 
 This involves three steps to be followed in sequence:
 
